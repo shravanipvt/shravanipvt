@@ -38,11 +38,11 @@
 <summary>⠂ GitHub Stats ⠐</summary>
 <h2 align="center"><b>⠂ GitHub Stats ⠐</b></h2>
 
-![GitHub followers](https://img.shields.io/github/followers/CandidVideoEditor?label=Follow&style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=CandidVideoEditor&label=Profile%20views)
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=CandidVideoEditor)
+![GitHub followers](https://img.shields.io/github/followers/shravanipvt?label=Follow&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=shravanipvt&label=Profile%20views)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=shravanipvt)
 
-<img width="60%" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CandidVideoEditor&show_icons=true&include_all_commits=true&theme=chartreuse-dark">
+<img width="60%" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shravanipvt&show_icons=true&include_all_commits=true&theme=chartreuse-dark">
 </details>
 
 ---
@@ -51,7 +51,7 @@
 <summary>⠂ Most Used Languages ⠐</summary>
 <h2 align="center"><b>⠂ Most Used Languages ⠐</b></h2>
 
-<img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CandidVideoEditor&layout=compact&theme=midnight-purple&hide=Css">
+<img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanipvt&layout=compact&theme=midnight-purple&hide=Css">
 </details>
 
 ---
@@ -70,10 +70,10 @@
 <h2 align="center"><b> ⠂ Social Media Accounts ⠐</b></h2>
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shravaniiiiiiiiiiiii?igsh=am5hMjlzbGdpaGpt)
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)]([https://t.me/Pro_LegendBoy](https://www.instagram.com/shravaniiiiiiiiiiiii?igsh=am5hMjlzbGdpaGpt))
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/Pro_LegendBoy](https://www.instagram.com/shravaniiiiiiiiiiiii?igsh=am5hMjlzbGdpaGpt))
-[![Facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white)]([https://facebook.com/Pro_LegendBoy](https://www.instagram.com/shravaniiiiiiiiiiiii?igsh=am5hMjlzbGdpaGpt))
-[![Replit](https://img.shields.io/badge/Repl.it-%230D101E?style=for-the-badge&logo=repl.it&logoColor=white)]([https://repl.it/@ProBoy_OP](https://www.instagram.com/shravaniiiiiiiiiiiii?igsh=am5hMjlzbGdpaGpt))
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](Shravani](https://www.instagram.com/shravaniiiiiiiiiiiii?igsh=am5hMjlzbGdpaGpt))
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([Shravani](https://www.instagram.com/shravaniiiiiiiiiiiii?igsh=am5hMjlzbGdpaGpt))
+[![Facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white)]([Shravani](https://www.instagram.com/shravaniiiiiiiiiiiii?igsh=am5hMjlzbGdpaGpt))
+[![Replit](https://img.shields.io/badge/Repl.it-%230D101E?style=for-the-badge&logo=repl.it&logoColor=white)]([Shravani](https://www.instagram.com/shravaniiiiiiiiiiiii?igsh=am5hMjlzbGdpaGpt))
 </details>
 
 ---
